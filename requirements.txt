@@ -1,0 +1,5 @@
+google-cloud-asset==3.14.2
+google-cloud-pubsub==2.13.10
+google-cloud-functions==1.8.3
+google-cloud-compute==1.6.1
+oauth2client==4.1.3
